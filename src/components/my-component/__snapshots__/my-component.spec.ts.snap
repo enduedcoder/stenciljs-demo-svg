@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`my-component should match snapshots 1`] = `
+<my-component>
+  <mock:shadow-root>
+    <div class="svg-container">
+      <svg fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M24 12c0 6.627-5.373 12-12 12C5.376 23.992.007 18.624 0 12 0 5.373 5.373 0 12 0s12 5.373 12 12zm-13.304-1.043H5.739a1.043 1.043 0 000 2.086h4.957a.26.26 0 01.26.261v4.957a1.043 1.043 0 002.088 0v-4.957a.26.26 0 01.26-.26h4.957a1.044 1.044 0 000-2.088h-4.956a.26.26 0 01-.261-.26V5.739a1.043 1.043 0 00-2.087 0v4.957a.26.26 0 01-.261.26z" fill="currentColor" fill-rule="evenodd"></path>
+      </svg>
+    </div>
+  </mock:shadow-root>
+</my-component>
+`;
